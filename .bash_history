@@ -50,3 +50,31 @@ cd ~/my-pocket-numbers
 git add .
 git commit -m "Subir código de my-pocket-numbers desde Lovable"
 git push -u origin main
+cd ~
+git clone https://github.com/Oscar514787/study-buddy-nova
+git remote -v
+exut
+exit
+cd ~
+git clone cd ~
+git clone https://github.com/Oscar514787/study-buddy-nova
+git remote add origin https://github.com/Oscar514787/study-buddy-nova.git
+cd ~/study-buddy-nova
+git remote -v
+git add .
+git commit -m "Sincronizar app Study Buddy Nova"
+git push origin main
+exit
+cd ~
+git clone https://github.com/Oscar514787/study-buddy-nova.git
+cd ~
+git clone https://github.com/Oscar514787/study-buddy-nova.git
+git remote -v
+cd ~/study-buddy-nova
+git remote -v
+mv ~/study-buddy-nova ~/study-buddy-nova-backup
+git clone https://github.com/Oscar514787/study-buddy-nova.git
+git remote -v
+git clone https://github.com/Oscar514787/study-buddy-nova.git
+cd study-buddy-nova
+exit
